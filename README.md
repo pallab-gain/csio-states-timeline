@@ -1,9 +1,9 @@
 ### A simple getLog parser
 
-#####Simple application that processes getLog output, and parse agent state change events.
+##### Simple application that processes getLog output, and parse agent state change events.
 
 
-####Scope
+#### Scope
 
 Logs can be use to simulate agent actions in future. It can be useful to diagnosis agent side issues.
 
